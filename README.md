@@ -1,3 +1,3 @@
 # Programming-CS111
 
-Project Programming 1
+Programming 1 Project
